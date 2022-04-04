@@ -1,0 +1,15 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+div {
+  background-color: rgb(31, 189, 31);
+  border: 3px solid rgb(20, 220, 20);
+}
+h1 {
+  color: rgb(28, 177, 177);
+  text-align: right;
+}
+body {
+  background-color: rgb(14, 14, 32);
+}

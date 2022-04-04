@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(230, 20, 20);
+  text-align: center;
+  font-family: cursive;
+  background-color: rgb(8, 92, 95);
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+div {
+  background-color: darkcyan;
+  border: 2px solid red;
+  margin: 5px;
+  padding: 4px;
+}
+body {
+  background-color: aqua;
+}
